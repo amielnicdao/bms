@@ -1,0 +1,57 @@
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 32%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    background: rgb(1,17,55);
+background: linear-gradient(0deg, rgba(1,17,55,1) 0%, rgba(40,76,139,1) 47%, rgba(4,37,64,1) 100%);
+    
+  }
+  
+  .navitem {
+      font-family:'Maven Pro';
+      padding-left: 30%;
+      padding-bottom: 20px;
+  }
+  
+  .navlink{
+      text-align: left;
+      color: white;
+      font-size: 20px;
+  }
+  
+  .navlink:hover {
+      color:lightgray;
+      transform: translateX(10px);
+  }
+  
+  .signout {
+      text-align: left;
+      color: white !important;
+      font-size: 20px;
+  }
+  
+  .signout:hover {
+      text-align: left;
+      color: lightgray !important;
+      font-size: 20px;
+      transform: translateX(10px) !important;
+  }
+  
+  .logoimg {
+      width: 80%;
+      margin: 30% auto 20px;
+  }
+  
+  hr {
+      height: 5px;
+      border: 0;
+      background-color: #9f9f9f;
+      margin-left: 10px;
+      margin-top: 10px !important;
+      width: 50%;
+  }

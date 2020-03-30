@@ -1,0 +1,90 @@
+.sign-in-container3 {
+    width: 50%;
+    margin: auto !important;
+    }
+    
+    
+    .signinbackground3{
+        padding: 3% 10% 15% 5%;
+        background-image: url(blueback.jpeg)
+    }
+    
+    .sign-in-logo3{
+    width:100%;
+    }
+    .signin-form3{
+        margin-left: 17%;
+    }
+    
+    .signin-btn3 {
+        float: left;
+        width: 30%;
+        margin: 40px 0px 10% 50px!important;
+        background-color: black !important;
+        border-color: grey !important;
+    }
+
+    .signin-btn4 {
+        float: right;
+        width: 30%;
+        margin: 40px 30px 10% !important;
+        background-color: black !important;
+        border-color: grey !important;
+    }
+
+
+    .welcome-prof-container {
+        margin-left: 27% !important;
+       padding: 0 10px 0 40px;
+    }
+
+    .wel-mem-hr {
+        width: 50%;
+       margin: 10px auto 10px auto !important;
+    }
+
+    .profile-container {
+        width: 62% !important;
+        margin-left: 35% !important;
+       padding: 0 10px 0 40px;
+    }
+    .mem-classes-container{
+        width: 62% !important;
+        margin-left: 35% !important;
+       padding: 0 10px 0 100px;
+    }
+
+    .prof-img {
+        margin-left: 70%;
+        margin-bottom: 5%;
+        border-radius: 30px;
+
+    }
+.title-hr2{
+    width: 30%;
+    margin: 2px auto 30px !important ;
+}
+
+.gym-class-title2 {
+    text-align: center;
+    font-family:'Maven Pro';
+    font-size: 30px;
+}
+.gym-class-text2 {
+    line-height: 200%;
+}
+
+.class-card2 {
+    width: 40%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.update-class-btn2{
+    margin-left:35%;
+}
+
+.class-row{
+    margin-left: 12% !important;
+}
