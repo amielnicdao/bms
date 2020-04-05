@@ -1,0 +1,24 @@
+.sign-in-container2 {
+    width: 40%;
+    margin: auto !important;
+    }
+    
+    
+    .signinbackground2{
+        padding: 7% 10% 9% 5%;
+        background-image: url(signinback.jpg)
+    }
+    
+    .sign-in-logo2{
+    width:130%;
+    }
+    .signin-form2{
+        margin-left: 20%;
+    }
+    
+    .signin-btn2 {
+        width: 30%;
+        margin: 15px 110px !important;
+        background-color: black !important;
+        border-color: grey !important;
+    }
