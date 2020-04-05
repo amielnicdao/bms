@@ -1,0 +1,229 @@
+body {
+    background-image: url(gray_jean.png);
+}
+
+.sign-in-container {
+width: 40%;
+margin: auto !important;
+}
+
+.sign-in-text {
+color:white;
+}
+
+.signinbackground{
+    padding: 7% 10% 9% 5%;
+    background-image: url(signinback.jpg)
+}
+
+.sign-in-logo{
+width:130%;
+}
+.signin-form{
+    margin-left: 20%;
+}
+
+.signin-btn {
+    width: 30%;
+    margin: 15px 110px !important;
+    background-color: black !important;
+    border-color: grey !important;
+}
+.attendance-container {
+    margin-left: 32%;
+    padding: 0 10px 0 40px
+}
+.welcome-container {
+    margin-left: 32%;
+    padding: 0 10px 0 10px
+}
+
+.members-container {
+    margin-left: 32%;
+    padding: 0 10px 0 10px;
+}
+
+.classes-container {
+    margin-left: 35%;
+    padding: 0 10px 0 10px;
+}
+
+.trainers-container {
+    margin-left: 32%;
+    padding: 0 10px 0 10px;
+}
+
+.update-class-btn{
+float: left;
+margin-left:15%;
+}
+.delete-class-btn{
+float: right;
+margin-right: 15%;     
+}
+
+
+.card-container {
+max-width: 30%;
+margin: 5px 10px 5px 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px 20px 20px 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.li-item {
+    display: inline-block !important;
+}
+.title-hr {
+    width: 30%;
+    margin: 2px auto 30px !important ;
+}
+
+
+.search {
+    width: 80%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    padding: 8px 20px;
+}
+
+.search-icon {
+    margin-left: 5%;
+    margin-right: 20px;
+}
+
+.searchBar{
+    width: 90%;
+    margin: auto;
+}
+
+.trainer-card {
+    width: 70%;
+    margin: 15px auto 20px auto;
+}
+.trainerPic{
+    margin-right: 10%;
+    border-radius: 25px;
+float: left;
+}
+
+.trainer-name {
+float:left;
+font-size: 25px;
+
+}
+
+.trainer-text {
+    float:left;
+    font-size: 20px;
+    clear: right;
+    }
+
+.trainer-button {
+    width: 30%;
+    margin-top: 4%;
+    margin-right: 1%;
+}
+
+.button-text {
+    color: white !important;
+}
+
+.welcome-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 38px;
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 30%;
+}
+
+.wel-hr {
+    width: 50%;
+    margin: 50px auto 10px auto !important;
+}
+
+.check-in-card {
+    margin-right: 5% !important;
+    margin-bottom: 5%;
+    min-width: 25%;
+}
+
+.check-row {
+    width: 100%;
+    margin-left: 6% !important;
+    margin: auto
+}
+.check-title {
+    font-family:'Maven Pro';
+    text-align:center;
+}
+
+.check-text {
+    font-family:'Maven Pro';
+}
+.classbtn {
+    width: 40%;
+    margin-left:30% !important;
+}
+
+.class-img-container {
+    margin-left: 8% !important; 
+    margin-right: 2%;
+    width: 40%;
+    float: left;
+}
+
+.class-img{
+border-radius: 30px;
+}
+
+.add-class-container {
+    float: left;
+    padding: 5px 30px 10px 30px;
+    width: 40%;
+}
+
+.add-class-text {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.classes {
+clear: both;
+margin-left: 10%;
+margin-bottom: 5%;
+}
+
+.gym-class-title {
+    text-align: center;
+    font-family:'Maven Pro';
+    font-size: 30px;
+}
+.gym-class-text {
+    line-height: 200%;
+}
+
+.class-card {
+    width: 40%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+
+@media (max-width: 1310px) {
+    .card-container {
+        max-width: 45%;
+        margin: 5px 10px 5px 20px;
+        }
+}
+
+@media (max-width: 868px) {
+    .card-container {
+        min-width: 500px !important;
+        margin: 5px 10px 5px 20px;
+        }
+}
