@@ -49,15 +49,10 @@ FitBMS can be used to:
 1. Once signed in, management can check attendance, trainers, and classes.
 
   **Dashboard**
-
     ![Management Dashboard](client/public/images/management.PNG)
-
   **Members**
-
     ![Members](client/public/images/members.PNG)
-
   **Classes**
-
     ![Trainers](client/public/images/class.PNG)
 
 ## Created By
