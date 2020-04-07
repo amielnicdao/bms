@@ -16,9 +16,9 @@ FitBMS can be used to:
 
   * `management can see who has checked in, see existing trainers, delete members, add/edit/delete classes, and assign trainers to a class`
 
-### How FitBMS Works
+## How FitBMS Works
 
-## Application 1: Check In
+### Application 1: Check In
 
 1. Before being able to check in, management must sign in for authentication.
 
@@ -28,7 +28,7 @@ FitBMS can be used to:
 
     ![Log In](client/public/images/checkIn.PNG)
 
-## Application 2: Member Portal
+### Application 2: Member Portal
 
 1. Members must log in for authentication.
 
@@ -44,7 +44,7 @@ FitBMS can be used to:
 
     ![Classes](client/public/images/classes.PNG)
 
-## Application 3: Management Portal
+### Application 3: Management Portal
 
 1. Once signed in, management can check attendance, trainers, and classes.
 
