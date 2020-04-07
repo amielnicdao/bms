@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import axios from 'axios';
-// import List from "../List";
-// import ListItem from "../ListItem";
 import './manage.css';
 import {
   Card, CardImg, CardText, CardBody,
@@ -84,15 +82,6 @@ class Members extends Component {
                     <Button color="info" type="submit" onClick={e => this.deleteMember(e, member.id)}>Manage Member</Button>
                   </CardBody>
                 </Card>
-                /* <strong>
-                  {member.firstName} {member.lastName} {member.username}
-                  {member.password} {member.phoneNum} {member.bday}
-                  {member.address} {member.email} {member.emergName}
-                  {member.emergNum}
-                </strong>
-                <button type="submit" onClick={e => this.deleteMember(e, member.id)}>Delete</button> */
-
-
 
               );
             })}

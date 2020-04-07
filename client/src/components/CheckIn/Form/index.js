@@ -3,8 +3,6 @@ import axios from 'axios';
 import List from "../../List";
 import ListItem from "../../ListItem";
 import fire from '../../../config/fire'
-// import Buttons from '../Buttons'
-// import { Button, ButtonGroup } from 'reactstrap';
 import './index.css';
 import maginifying from './maginifying.png'
 import fitbmslogo from './fitbmslogo.png';
@@ -38,13 +36,6 @@ class CheckinForm extends React.Component {
         this.setState({ members: response.data.members })
       })
   }
-  // renderMember() {
-  //   return this.state.members.map(member => (
-  //     <div key={member.id}>
-  //       {member.firstName + " " + member.lastName}
-  //     </div>
-  //   ))
-  // }
 
   logout = () => {
     fire.auth().signOut();
@@ -139,7 +130,7 @@ class CheckinForm extends React.Component {
                       )}
                   </div>
                 </div>
-                {/* <Buttons></Buttons> */}
+                
                 <button className="check-me-in-btn" type="submit">Check Me In!</button>
                 <br></br>
                 <button className="signout-btn" type="submit" href="" onClick={this.logout}>Sign Out</button>

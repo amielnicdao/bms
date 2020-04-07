@@ -1,9 +1,4 @@
 import React, { Component } from "react";
-// import { BrowserRouter as Router } from "react-router-dom";
-// import AppBar from '@material-ui/core/AppBar';
-// import Toolbar from '@material-ui/core/Toolbar';
-// import IconButton from '@material-ui/core/IconButton';
-// import Typography from '@material-ui/core/Typography';
 import {
     Card, CardImg, CardText, CardBody,
     CardTitle, Jumbotron, Alert, Media, Button, Form, FormGroup, Label, Input, Container, Row, Col, Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, NavLink, Modal, ModalHeader, ModalBody
@@ -12,8 +7,6 @@ import fire from "../config/fire";
 import axios from 'axios';
 import moment from 'moment';
 import placeholderImage from '../utils/profile-placeholder.jpg';
-import List from '../components/List';
-import ListItem from '../components/ListItem';
 import './memberport.css';
 import memlogo from './memlogo.png';
 import style from './style.module.css';

@@ -11,7 +11,6 @@ class Trainers extends Component {
     super(props);
     this.state = {
       trainers: [],
-      // id: "",
       firstName: "",
       lastName: "",
       phoneNum: "",

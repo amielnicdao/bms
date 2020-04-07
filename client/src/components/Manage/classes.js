@@ -104,7 +104,7 @@ class Classes extends Component {
                 <h1>CLASSES</h1>
                 <hr className="title-hr"></hr>
                 <br></br>
-                {/* {this.renderClasses()} */}
+    
                 <div className="class-img-container">
                     <img className="class-img"
                         width="99%"
@@ -112,7 +112,7 @@ class Classes extends Component {
                         alt="class" />
                 </div>
                 <div className="add-class-container">
-                    {/* <p className="add-class-text"><strong>Add a Class</strong></p> */}
+                   
                     <form>
                         <Input
                             value={this.state.nameOfClass}
