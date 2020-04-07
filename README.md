@@ -26,23 +26,23 @@ FitBMS can be used to:
 
 2. On the Log In page, users can search for their name and indicate whether they are trainers or there for a class as a member.
 
-    ![Log In](public/images/checkIn.PNG)
+    ![Log In](client/public/images/checkIn.PNG)
 
 ## Application 2: Member Portal
 
 1. Members must log in for authentication.
 
-    ![Member Log In](public/images/mPortal.PNG)
+    ![Member Log In](client/public/images/mPortal.PNG)
 
 2. Once on the dashboard, users can see their profile and sign up for classes.
 
     **Profile**
 
-    ![Dashboard](public/images/memberProfile.PNG)
+    ![Dashboard](client/public/images/memberProfile.PNG)
 
     **Classes**
 
-    ![Classes](public/images/classes.PNG)
+    ![Classes](client/public/images/classes.PNG)
 
 ## Application 3: Management Portal
 
@@ -50,15 +50,15 @@ FitBMS can be used to:
 
   **Dashboard**
 
-    ![Management Dashboard](public/images/management.PNG)
+    ![Management Dashboard](client/public/images/management.PNG)
 
   **Members**
 
-    ![Members](public/images/members.PNG)
+    ![Members](client/public/images/members.PNG)
 
   **Classes**
 
-    ![Trainers](public/images/class.PNG)
+    ![Trainers](client/public/images/class.PNG)
 
 ## Created By
 
