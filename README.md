@@ -22,7 +22,7 @@ FitBMS can be used to:
 
 1. Before being able to check in, management must sign in for authentication.
 
-    ![Check In](public/images/admin.PNG)
+    ![Check In](client/public/images/admin.PNG)
 
 2. On the Log In page, users can search for their name and indicate whether they are trainers or there for a class as a member.
 
